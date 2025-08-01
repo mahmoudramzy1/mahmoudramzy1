@@ -1,16 +1,59 @@
 ## Hi there 👋
 
-<!--
-**mahmoudramzy1/mahmoudramzy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mahmoud Ramzy
 
-Here are some ideas to get you started:
+I'm a **Full Stack Developer** with a focus on **backend development**, building reliable and scalable web applications using **FastAPI**, **Node.js**, and **React/Next.js**. I enjoy turning complex workflows into efficient systems, especially in B2B, monitoring, and reward-based platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🟢 [RewardHub](https://www.youtube.com/watch?v=ShUvM0AYVPI&t=4s)
+**A multi-app reward system** designed for organizations to manage employee incentives and third-party redemptions.
+
+- 🔹 Organization Admin Web App: Add/deduct points, manage employees, view transactions.
+- 🔹 Super Admin Web App: Manage organizations, offers, and third parties.
+- 🔹 Employee Mobile App: View and redeem points, generate offer codes.
+- 🔹 Third-Party App: Redeem codes or deduct points through employee confirmation.
+- **Tech Stack**: Node.js, React, Tailwind CSS, MongoDB, Sequelize
+- **Role**: Project planner, Team leader, Backend Developer
+
+---
+
+### ☀️ [O-M Portal](#)
+**A monitoring and task management system** for solar energy production sites.
+
+- 👷 **Engineer Role**: Assigns tasks to technicians.
+- 🧰 **Technical Role**: Accepts tasks and updates status (Done / Canceled).
+- 🏠 **Site Owner Role**: Monitors site performance and completed tasks.
+- 🛠️ **Admin Role**: Manages users and adds new sites.
+- **Tech Stack**: FastAPI (backend), React (frontend), PostgreSQL, SQLModel
+- **Role**: System Architect, Fullstack Developer (Mainly Backend)
+
+---
+
+### 🛒 [Mwasfa B2B E-Commerce Platform](#)
+**An e-commerce platform** for companies to showcase products and manage internal purchases with role-based access.
+
+- 🧑‍💼 **Super User**: Full control — manage employees, approve payments.
+- 👨‍🔧 **Controller**: Add/delete employees, make payments.
+- 💳 **Subcontroller**: Make payments only.
+- 📦 **Order Maker**: Choose items, enter address, and request payment approval.
+- **Tech Stack**: Next.js (App Router), Tailwind CSS, Node.js, PostgreSQL, Prisma, REST API
+- **Role**: Frontend Developer
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Backend**: FastAPI, Node.js, Express, MongoDB, PostgreSQL, SQLModel, Sequelize, Prisma,
+- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Auth & Security**: JWT, Role-Based Access Control
+- **Architecture**: REST API Design, MSC/OOP patterns
+
+---
+
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-ramzy-706770171/)
