@@ -54,5 +54,6 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 
 ## 📫 Connect with Me
 
+- 📞 Phone: +20 127 547 4695
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-ramzy-706770171/)
 - [WhatsApp](https://wa.me/+201275474695/)
