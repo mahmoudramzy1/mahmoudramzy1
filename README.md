@@ -55,4 +55,4 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-ramzy-706770171/)
-- [WhatsApp](wa.me/+201275474695)
+- [WhatsApp](https://wa.me/+201275474695/)
