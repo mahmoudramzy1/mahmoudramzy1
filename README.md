@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Mahmoud Ramzy
 
 I'm a **Full Stack Developer** with a focus on **backend development**, building reliable and scalable web applications using **FastAPI**, **Node.js**, and **React/Next.js**. I enjoy turning complex workflows into efficient systems.
