@@ -22,9 +22,9 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 **A monitoring and task management system** for solar energy production sites.
 
 - 👷 **Engineer Role**: Assigns tasks to technicians.
-- 🧰 **Technical Role**: Accepts tasks and updates status (Done / Canceled).
-- 🏠 **Site Owner Role**: Monitors site performance and completed tasks.
-- 🛠️ **Admin Role**: Manages users and adds new sites.
+- 🧰 **Technical Role**: Accepts tasks and updates their status (Done / Canceled).
+- 🏠 **Site Owner Role**: track task completion by downloading detailed reports.
+- 🛠️ **Admin Role**: Manages user accounts and site records.
 - **Tech Stack**: FastAPI (backend), React (frontend), PostgreSQL, SQLModel
 - **Role**: System Architect, Fullstack Developer (Mainly Backend)
 
