@@ -6,7 +6,7 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 
 ## 🚀 Projects
 
-### 🟢 [RewardHub](https://www.youtube.com/watch?v=ShUvM0AYVPI&t=4s)
+### 🟢 [RewardHub](https://www.youtube.com/watch?v=nyc9gxkg56E)
 **A multi-app reward system** designed for organizations to manage employee incentives and third-party redemptions.
 
 - 🔹 Organization Admin Web App: Add/deduct points, manage employees, view transactions.
@@ -18,7 +18,7 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 
 ---
 
-### ☀️ [O-M Portal](#)
+### ☀️ [O-M Portal](http://209.38.239.93/login)
 **A monitoring and task management system** for solar energy production sites.
 
 - 👷 **Engineer Role**: Assigns tasks to technicians.
@@ -30,7 +30,7 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 
 ---
 
-### 🛒 [Mwasfa B2B E-Commerce Platform](#)
+### 🛒 [Mwasfa B2B E-Commerce Platform](http://167.71.48.190:3000/)
 **An e-commerce platform** for companies to showcase products and manage internal purchases with role-based access.
 
 - 🧑‍💼 **Super User**: Full control — manage employees, approve payments.
