@@ -18,7 +18,7 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 
 ---
 
-### ☀️ [O-M Portal]()
+### ☀️ [O-M Portal]
 **A monitoring and task management system** for solar energy production sites.
 
 - 👷 **Engineer Role**: Assigns tasks to technicians.
@@ -30,7 +30,7 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 
 ---
 
-### 🛒 [Mwasfa B2B E-Commerce Platform]()
+### 🛒 [Mwasfa B2B E-Commerce Platform]
 **An e-commerce platform** for companies to showcase products and manage internal purchases with role-based access.
 
 - 🧑‍💼 **Super User**: Full control — manage employees, approve payments.
