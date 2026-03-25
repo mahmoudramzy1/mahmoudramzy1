@@ -18,7 +18,7 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 
 ---
 
-### ☀️ [O-M Portal](http://209.38.239.93/login)
+### ☀️ [O-M Portal]()
 **A monitoring and task management system** for solar energy production sites.
 
 - 👷 **Engineer Role**: Assigns tasks to technicians.
@@ -30,7 +30,7 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 
 ---
 
-### 🛒 [Mwasfa B2B E-Commerce Platform](http://167.71.48.190:3000/)
+### 🛒 [Mwasfa B2B E-Commerce Platform]()
 **An e-commerce platform** for companies to showcase products and manage internal purchases with role-based access.
 
 - 🧑‍💼 **Super User**: Full control — manage employees, approve payments.
@@ -44,7 +44,7 @@ I'm a **Full Stack Developer** with a focus on **backend development**, building
 
 ## 🛠️ Skills & Technologies
 
-- **Backend**: FastAPI, Node.js, Express, MongoDB, PostgreSQL, SQLModel, Sequelize, Prisma,
+- **Backend**: FastAPI, Node.js, nest.js, Express, MongoDB, PostgreSQL, SQLModel, Sequelize, Prisma,
 - **Frontend**: React.js, Next.js, Tailwind CSS
 - **Auth & Security**: JWT, Role-Based Access Control
 - **Architecture**: REST API Design, MSC/OOP patterns
